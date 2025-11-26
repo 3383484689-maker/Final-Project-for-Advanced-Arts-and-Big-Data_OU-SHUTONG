@@ -1,0 +1,12 @@
+diffusers==0.30.0
+transformers==4.41.2
+accelerate==0.30.1
+safetensors==0.4.2
+torch>=2.1.0
+torchvision>=0.16.0
+xformers==0.0.25
+streamlit==1.35.0
+Pillow==10.2.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+requests==2.32.0
